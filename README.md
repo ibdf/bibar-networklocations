@@ -8,7 +8,7 @@ This is a simple Node.js script that check the name of your WiFi and tries to ma
 Different wifi connections may require different settings (eg. proxy)
 
 ## Requirements
-- Runs in bitbar (https://bitbar.com)
+- Runs in bitbar (https://getbitbar.com/)
 - The network location name must match the wifi name.
 
 ## Setup
